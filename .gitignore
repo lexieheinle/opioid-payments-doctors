@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
-*.csv
+General_Payment_*.csv
+Medicare_Perscriber_Summary_*.csv
+New_York_State_ZIP_Codes-*.csv
+export.*
+waghmarae_specific.csv
+Opioid_Drug_List_20*.csv
